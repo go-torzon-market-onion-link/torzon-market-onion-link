@@ -42,4 +42,6 @@ This information is provided solely for educational purposes. We do not support 
 
 
 
-Update:  04.07.2025 Invalid URLs
+
+
+Update: APIs updated
