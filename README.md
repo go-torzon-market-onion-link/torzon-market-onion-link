@@ -44,4 +44,6 @@ This information is provided solely for educational purposes. We do not support 
 
 
 
-Update: APIs updated
+
+
+Update: Fixed inaccessible url
