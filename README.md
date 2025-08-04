@@ -52,4 +52,6 @@ This information is provided solely for educational purposes. We do not support 
 
 
 
-Update:  24.07.2025 11:47:13 Link is now available online
+
+
+Update:  04.08.2025 Broken anchors
