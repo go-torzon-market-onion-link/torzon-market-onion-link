@@ -4,11 +4,11 @@
 
 ## Finding the TorZon Market Onion Link
 
-http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion
+http://torzon5g2amn6bjnhmhskcnttnn5cy5x4epy3red55glanfpce7o34yd.onion
 
-[<img src="/screenshots/visual.webp" width="200">](http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion)
+[<img src="/screenshots/visual.webp" width="200">](http://torzon5g2amn6bjnhmhskcnttnn5cy5x4epy3red55glanfpce7o34yd.onion)
 
-<a href="http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion"><img src="/screenshots/label.webp" alt="TorZon Market Onion Link" style="max-width: 100%;"></a>
+<a href="http://torzon5g2amn6bjnhmhskcnttnn5cy5x4epy3red55glanfpce7o34yd.onion"><img src="/screenshots/label.webp" alt="TorZon Market Onion Link" style="max-width: 100%;"></a>
 
 The information here is for education. We neither endorse nor promote any illegal actions.
 
@@ -60,4 +60,6 @@ This information is provided solely for educational purposes. We do not support 
 
 
 
-Update:  23.08.2025 Great job team, the link is functioning properly now.
+
+
+Update:  09/12/2025 Link is now working correctly
